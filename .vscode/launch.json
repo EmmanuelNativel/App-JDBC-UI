@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JDBCAppConsole",
+            "request": "launch",
+            "mainClass": "jdbcUI.JDBCAppConsole",
+            "projectName": "JDBCAppUI"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "jdbcUI.Main",
+            "projectName": "JDBCAppUI"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "jdbcConsole.Main",
+            "projectName": "JDBCAppUI"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Home",
+            "request": "launch",
+            "mainClass": "jdbcConsole.Home",
+            "projectName": "JDBCAppUI"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JDBCAppConsole",
+            "request": "launch",
+            "mainClass": "jdbcConsole.JDBCAppConsole",
+            "projectName": "JDBCAppUI"
+        }
+    ]
+}
